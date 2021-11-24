@@ -1,0 +1,27 @@
+.nav-home {
+    background-color: #a62626 !important;
+}
+
+.navbar-light .navbar-nav .nav-color {
+    color: rgb(255, 255, 255);
+}
+
+.navbar-light .nav-brand {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.carousel-page {
+}
+
+.pizza-heading {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.footer {
+    background-color: #a62626 !important ;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    color: white;
+}
